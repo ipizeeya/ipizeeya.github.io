@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipizeeya.github.io/AhL/sitemap_index.txt
+Sitemap: https://ipizeeya.github.io/HUj/sitemap_index.txt
+Sitemap: https://ipizeeya.github.io/hpZ/sitemap_index.txt
+Sitemap: https://ipizeeya.github.io/qFd/sitemap_index.txt
